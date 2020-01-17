@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scrolldemo</string>
+    <string name="scrollbottom_text">没有更多了\n>_&lt;</string>
+    <string name="square_employment">招聘</string>
+    <string name="square_volunteer">志愿</string>
+    <string name="square_nursing_home">养老院</string>
+</resources>
